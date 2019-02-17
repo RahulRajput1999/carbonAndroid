@@ -36,6 +36,8 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.List;
 
+//CartActivity Class created by Rahul on 3,Jan.
+
 public class CartActivity extends AppCompatActivity {
 
     private RecyclerView recyclerView;
